@@ -2,6 +2,7 @@
   "name": "airtraffic-react",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://miroslavskela.github.io/AirTraffic-react",
   "dependencies": {
     "materialize-css": "^0.100.2",
     "react": "^16.4.0",
